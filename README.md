@@ -8,4 +8,4 @@ My name is Jürgen Brüder and I am a DevOps Engineer and Software Developer fro
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play the guitar and I am a big metalhead
 
-![jaybrueder's GitHub stats](https://github-readme-stats-eosin-eta-64.vercel.ap/api?username=jaybrueder&show=reviews,prs_merged&hide=stars&theme=tokyonight)
+![jaybrueder's GitHub stats](https://github-readme-stats-eosin-eta-64.vercel.app/api?username=jaybrueder&show=reviews,prs_merged&hide=stars&theme=tokyonight)
