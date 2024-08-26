@@ -7,5 +7,3 @@ My name is Jürgen Brüder and I am a DevOps Engineer and Software Developer fro
 - 👯 I'm looking to collaborate on open source projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play the guitar and I am a big metalhead
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaybrueder&show_icons=true&theme=onddark)
